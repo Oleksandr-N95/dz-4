@@ -6,5 +6,6 @@ public class Main {
 
         newClass.print();
 
+        System.out.println(String.format("~~~ <%s> ~~~%n", newClass.print()));
     }
 }
